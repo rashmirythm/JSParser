@@ -1,6 +1,8 @@
 
 	function add(a, b) {
-	    return a + b;            // Function returns the product of a and b
+		var sum = a + b;
+	    sum = a + b;            // Function returns the product of a and b
+	    return sum;
 	}
 
 	function sub(a,b)
