@@ -20,9 +20,8 @@
 
 	function mod(a,b)
 	{
-		var a = 5;
-		var b = 10;
-		return a % b;
+		var mod = a % b;
+		return mod;
 		}
 	
 	function sqr(a)
