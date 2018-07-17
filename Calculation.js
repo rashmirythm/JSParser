@@ -1,7 +1,7 @@
 
 	function add(a, b) {
 		var sum = a + b;
-	    sum = a + b;            // Function returns the product of a and b
+	    sum = a + b;            
 	    return sum;
 	}
 
