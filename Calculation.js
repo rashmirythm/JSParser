@@ -31,6 +31,12 @@
 		return a;
 	}
 	
+	function cube(a)
+	{
+		var cube = a * a * a;
+		return cube;
+	}
+	
 	
 
 
