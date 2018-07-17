@@ -25,6 +25,12 @@
 		return a % b;
 		}
 	
+	function sqr(a)
+	{
+		var sqr = a * a;
+		return a;
+	}
+	
 	
 
 
