@@ -4,9 +4,20 @@
 	    sum = a + b;            
 	    return sum;
 	}
+	
+	function add(a,b)
+	{
+		var sum = a + b;
+	    sum = a + b;            
+	    return sum;
+	}
 
 	function sub(a,b)
 	{
+		function sub1(a,b)
+		{
+			return a+b;
+		}
 		return a - b;
 		}
 
