@@ -4,6 +4,10 @@
 	    sum = a + b;            
 	    return sum;
 	}
+	function pro(a,b)
+	{
+		return a * b;
+		}
 	
 	function add(a,b)
 	{
@@ -61,6 +65,12 @@
 	}
 	
 	function cube(a)
+	{
+		var cube = a * a * a;
+		return cube;
+	}
+	
+	function cube1(a)
 	{
 		var cube = a * a * a;
 		return cube;
