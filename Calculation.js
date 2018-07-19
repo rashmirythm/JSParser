@@ -17,6 +17,11 @@
 	    sum = a + b;            
 	    return sum;
 	}
+	
+	var foo = (function foo(x) {
+	    return x * 10;
+	});
+	
 	function add3(a,b)
 	{
 		var sum = a + b;

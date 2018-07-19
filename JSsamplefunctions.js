@@ -51,3 +51,7 @@ function fun6()
 	return c;
 	
 	}
+
+var foo = (function foo(x) {
+    return x * 10;
+});
