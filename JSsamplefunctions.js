@@ -21,6 +21,7 @@ function fun3()
 	var a=5;
 	var b=5;
 	var c=a+b;
+	var d=6;
 	return c;
 	
 	}

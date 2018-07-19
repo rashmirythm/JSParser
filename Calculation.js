@@ -11,6 +11,12 @@
 	    sum = a + b;            
 	    return sum;
 	}
+	function add2(a,b)
+	{
+		var sum = a + b;
+	    sum = a + b;            
+	    return sum;
+	}
 
 	function sub(a,b)
 	{
