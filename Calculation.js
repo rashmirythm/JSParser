@@ -6,7 +6,10 @@
 	}
 	function pro(a,b)
 	{
+		var a=5;
+		var b=10;
 		return a * b;
+		
 		}
 	
 	function add(a,b)
@@ -61,6 +64,7 @@
 	function sqr(a)
 	{
 		var sqr = a * a;
+		var cube = a*a*a;
 		return a;
 	}
 	

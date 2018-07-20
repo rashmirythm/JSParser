@@ -13,6 +13,7 @@ function fun2()
 	var b=5;
 	var c=a+b;
 	var d=a-b;
+	var sqr=a*a;
 	return c;
 	
 	}
@@ -31,6 +32,7 @@ function fun4()
 	var a=5;
 	var b=5;
 	var c=a+b;
+	var cube=a*a*a;
 	return c;
 	
 	}
