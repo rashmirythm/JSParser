@@ -6,7 +6,8 @@
 	}
 	function pro(a,b)
 	{
-		var b=5;
+		var a=5;
+		var b=10;
 		return a * b;
 		
 		}
