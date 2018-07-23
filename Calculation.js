@@ -12,12 +12,7 @@
 		
 		}
 	
-	function add(a,b)
-	{
-		var sum = a + b;
-	    sum = a + b;            
-	    return sum;
-	}
+	
 	function add2(a,b)
 	{
 		var sum = a + b;
@@ -26,7 +21,7 @@
 	}
 	
 	var foo = (function foo(x) {
-	    return x * 10;
+	    return x * 100;
 	});
 	
 	function add3(a,b)
@@ -69,6 +64,12 @@
 	}
 	
 	function cube(a)
+	{
+		var cube = a * a * a;
+		return cube;
+	}
+	
+	function cube11(a)
 	{
 		var cube = a * a * a;
 		return cube;
