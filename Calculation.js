@@ -2,11 +2,11 @@
 	function add(a, b) {
 		var sum = a + b;
 	    sum = a + b;            
-	    return sum;
+	    return diff;
 	}
 	function pro(a,b)
 	{
-		var a=5;
+		var b=5;
 		var c=15;
 		return a * b;
 		
