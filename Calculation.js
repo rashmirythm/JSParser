@@ -11,6 +11,13 @@
 		return a * b;
 		
 		}
+	function pro(a,b)
+	{
+		var b=5;
+		var c=15;
+		return a * b;
+		
+		}
 	
 	
 	function add2(a,b)
@@ -21,7 +28,7 @@
 	}
 	
 	var foo = (function foo(x) {
-	    return x * 100;
+	    return y * 100;
 	});
 	
 	function add3(a,b)
