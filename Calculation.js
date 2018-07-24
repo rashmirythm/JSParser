@@ -16,6 +16,10 @@
 		var b=5;
 		var c=15;
 		return a * b;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
 		var b=5;
 		var c=15;
 		return a * b;
@@ -88,7 +92,7 @@
 		return a * b;
 		var b=5;
 		var c=15;
-		return a * b;
+		return a * c;
 		var b=5;
 		var c=15;
 		return a * b;
