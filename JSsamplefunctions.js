@@ -11,6 +11,7 @@ function add()
 {
 	var a=0;
 	var b=0;
+	return c;
 }
 
 
@@ -51,15 +52,17 @@ function fun5()
 	return c;
 	
 	}
-function fun6()
+
+function fun55()
 {
 	var a=5;
 	var b=5;
 	var c=a+b;
-	var d=a-b;
 	return c;
 	
 	}
+
+
 
 var foo = (function foo(x) {
     return x * 10;
