@@ -7,6 +7,13 @@ function fun1()
 	
 	}
 
+function add()
+{
+	var a=0;
+	var b=0;
+}
+
+
 function fun2()
 {
 	var a=5;
