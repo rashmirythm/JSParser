@@ -10,6 +10,14 @@
 		var c=15;
 		return a * b;
 		
+		
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
+		
 		var b=5;
 		var c=15;
 		return a * b;
@@ -43,6 +51,9 @@
 		return a * b;
 		var b=5;
 		var c=15;
+		var b=5;
+		var c=15;
+		return a * b;
 		return a * b;
 		var b=5;
 		var c=15;
@@ -68,31 +79,34 @@
 		return a * b;
 		var b=5;
 		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
-		return a * b;
-		var b=5;
-		var c=15;
 		return a * c;
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a * b;
+		var b=5;
+		var c=15;
+		return a *c*d;
+		vadr hfhdfv;
+		jhdf;
+		asvxxv;
 		var b=5;
 		var c=15;
 		return a * b;
@@ -123,6 +137,7 @@
 		var sum = a + b;
 	    sum = a + b;            
 	    return sum;
+	    return sdt;
 	}
 	
 	var foo = (function foo(x) {
