@@ -20,3 +20,11 @@ function add()
 	var b=0;
 	return c;
 }
+function fun1()
+{
+	var a=5;
+	var b=5;
+	var c=a+b;
+	return c;
+	
+	}

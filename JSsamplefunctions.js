@@ -65,6 +65,15 @@ function fun5()
 
 function fun55()
 {
+	var v=5;
+	var b=10;
+	var c=a+b;
+	return c;
+	
+	}
+
+function fun55()
+{
 	var a=5;
 	var b=5;
 	var shbxha;
