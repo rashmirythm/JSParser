@@ -1,4 +1,4 @@
-function fun1()
+function fun1(a,b)
 {
 	var a=5;
 	var b=5;
@@ -7,7 +7,7 @@ function fun1()
 	
 	}
 
-function add()
+function add(a,b,c)
 {
 	var a=0;
 	var b=0;
@@ -45,7 +45,7 @@ function fun3()
 	return c;
 	
 	}
-function fun4()
+function fun4(x,y)
 {
 	var a=5;
 	var b=5;
