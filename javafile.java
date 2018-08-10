@@ -82,6 +82,8 @@ public class MethodFinder {
 		if (!file.exists()) {
 			file.createNewFile();
 		}
+		
+		abc;
 		InputStream is = (InputStream) proc.getInputStream();
 		InputStreamReader isr = new InputStreamReader(is);
 		BufferedReader br = new BufferedReader(isr);

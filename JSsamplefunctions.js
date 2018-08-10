@@ -18,11 +18,12 @@ function add(a,b,c)
 	return c;
 	var a=0;
 	var b=0;
+	abc;
 	return c;
 }
 
 
-function fun2()
+function fun2(a,b,c)
 {
 	var a=5;
 	var b=5;
@@ -67,12 +68,13 @@ function fun55()
 {
 	var v=5;
 	var b=10;
+	abc;
 	var c=a+b;
 	return c;
 	
 	}
 
-function fun55()
+function fun55(a,b,c)
 {
 	var a=5;
 	var b=5;
