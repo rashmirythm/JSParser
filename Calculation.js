@@ -23,7 +23,8 @@
 	function add2(a,b)
 	{
 		var sum = a + b;
-	    sum = a + b;            
+	    sum = a + a;  
+	    var c = sum;
 	    return sum;
 	    return sdt;
 	}
@@ -85,8 +86,8 @@
 	
 	function cube1(a)
 	{
-		var cube = a * a * a;
-		return cube;
+		var cube1 = a * a * a;
+		return cube1;
 	}
 	
 	

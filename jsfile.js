@@ -15,7 +15,6 @@ function fun3()
 	var c=a+b;
 	var d=6;
 	var e=c+d;
-	return c;
 	var a=0;
 	var b=0;
 	return c;
