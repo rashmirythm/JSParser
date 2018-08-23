@@ -25,7 +25,7 @@
 		var sum = a + b;
 	    sum = a + b;            
 	    return sum;
-	    return sdt;
+	  
 	}
 	
 	var foo = (function foo(x) {
